@@ -26,6 +26,21 @@
                 "Texture"
             ]
         },
+        "4": {
+            "name": "Boeing 737-700",
+            "liveries": [
+                {
+                    "name": "Boeing 737-700 RNZAF Livery",
+                    "texture": [
+                        "https://i.ibb.co/YDj45kv/737-700-Livery.png"
+                    ],
+                    "credits": "Calculus"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [

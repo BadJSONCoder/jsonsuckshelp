@@ -19,7 +19,22 @@
                     "texture": [
                         "https://i.ibb.co/QMsbjdB/rnzaf-f16-made-by-me.png"
                     ],
-                    "credits": "who made this?"
+                    "credits": "Kiwi-1"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4631": {
+            "name": "Airbus a330-900neo",
+            "liveries": [
+                {
+                    "name": "A330-900neo RNZAF Livery",
+                    "texture": [
+                        "https://i.ibb.co/s2kt5RT/RNZAF-a330.png"
+                    ],
+                    "credits": "Placeholder"
                 }
             ],
             "labels": [

@@ -1,5 +1,5 @@
 {
-    "name": "Royal New Zealand Air Force",
+    "name": "Royal New Zealand Airforce",
     "color": "white",
     "bgcolor": "blue",
 
@@ -47,9 +47,24 @@
                 {
                     "name": "A330-900neo RNZAF Livery",
                     "texture": [
-                        "https://i.ibb.co/s2kt5RT/RNZAF-a330.png"
+                        "https://i.ibb.co/TrV56bK/737-700-Livery-min-5.png"
                     ],
                     "credits": "Calculus"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2386": {
+            "name": "Boeing p8I Neptune",
+            "liveries": [
+                {
+                    "name": "P-8i RNZAF Livery",
+                    "texture": [
+                        "https://i.ibb.co/m43d2nN/RNZAF-P-8-Geo-FS.png"
+                    ],
+                    "credits": "Kiwi-1"
                 }
             ],
             "labels": [

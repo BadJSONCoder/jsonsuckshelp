@@ -1,0 +1,30 @@
+{
+    "name": "Royal New Zealand Airforce",
+    "color": "white",
+    "bgcolor": "blue",
+
+    "aircrafts": {
+        "7": {
+            "name": "F-16 Fighting Falcon",
+            "liveries": [
+                {
+                    "name": "F-16 RNZAF Livery",
+                    "texture": [
+                        "https://ibb.co/d7Kggps"
+                    ],
+                    "credits": "Bigboi69"
+                },
+                {
+                    "name": "F-16 RNZAF Livery Alt.",
+                    "texture": [
+                        "https://ibb.co/3ctrYzX"
+                    ],
+                    "credits": "who made this?"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        }
+    }
+}
